@@ -32,4 +32,16 @@ h2 {
     line-height: normal;
     position: static;
     z-index: auto;
+    margin-top: 19.92px;
+    margin-bottom: 19.92px;
+}
+
+table {
+    border: 2px solid rgb(89, 96, 187);
+    width: 1000px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: rgb(136, 139, 173);
 }
