@@ -45,3 +45,7 @@ table {
 thead {
     background-color: rgb(136, 139, 173);
 }
+
+td {
+    border-top: 1px solid rgb(8, 4, 253);
+}
