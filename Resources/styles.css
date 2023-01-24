@@ -7,4 +7,23 @@
 h1 {
     font-family: Arial, sans-serif;
     text-align: center;
+    box-sizing: content-box;
+    display: block;
+    float: none;
+    line-height: normal;
+    position: static;
+    z-index: auto;
+    margin-bottom: 21.44px;
+} 
+
+h2 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: rgb(70, 51, 153);
+    box-sizing: border-box;
+    display: block;
+    float: none;
+    line-height: normal;
+    position: static;
+    z-index: auto;
 }
